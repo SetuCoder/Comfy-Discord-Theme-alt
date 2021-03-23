@@ -6,4 +6,4 @@ Note: This theme is originally made by NYRI4, you can find her on GitHub aswell.
 ---
 
 # Comfy
-![Preview](![Screenshot 2021-03-23 at 2 24 08 PM](https://user-images.githubusercontent.com/58362876/112119525-757e9880-8be3-11eb-9e0a-f9d68ed98b8d.png)
+(![Screenshot 2021-03-23 at 2 24 08 PM](https://user-images.githubusercontent.com/58362876/112119525-757e9880-8be3-11eb-9e0a-f9d68ed98b8d.png)
